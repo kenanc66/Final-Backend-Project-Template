@@ -5,8 +5,7 @@ using System;
 
 namespace ConsoleUI
 {
-    //SOLID
-    //Open Closed Principle
+    
     class Program
     {
         static void Main(string[] args)
